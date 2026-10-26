@@ -1,0 +1,19 @@
+pkgs/cupertino_http/test/url_session_delegate_test.dart
+  s_407c1b1796ff19::t_6c3bcf20da2491 383-415
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d3877525e039deea504a2a3bae10a20564dabdc8",
+  "prompts": {},
+  "sessions": {
+    "s_407c1b1796ff19": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_407c1b1796ff19",
+        "model": "unknown"
+      },
+      "human_author": "Brahim Guaali <brahim.guaali@talabat.com>"
+    }
+  }
+}

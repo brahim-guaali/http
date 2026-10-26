@@ -1,0 +1,27 @@
+pkgs/cupertino_http/CHANGELOG.md
+  s_e5899ef02be829::t_e808fe159fb7ef 3-6
+pkgs/cupertino_http/lib/src/cupertino_api.dart
+  s_e5899ef02be829::t_90ad4ea0b12175 89-98,124,143-155,779,790,914-974,1129,1140,1186-1190,1208,1225,1241
+pkgs/cupertino_http/lib/src/native_cupertino_bindings.dart
+  s_e5899ef02be829::t_cd231efb7d6b43 925-941,13223-14083,14086-14088,14090-14093,14096-14097,14100-14102,14104-14105,14108-14111,14114-14116,14118-14121,14124-14127,14130-14132,14134,14137,14140-14141,14144-14146,14148-14149,14152-14153,14156-14158,14160-14163,14166-14167,14170-14172,14174-14177,14180-14183,14186-14188,14190-14193,14196-14200,14202,14206-14212,14215-14221,14223,14227-14233,29760-29780,30257-30271,30833-30847,31602-31603,31626-31643,31665-31671,31699,31734-31735,31737,31739-31741,31743-31744,31760-31766,31782-31784,31797,31799-31800,31811,31813-31814,31816-31821,32011,32020
+pkgs/cupertino_http/test/url_session_delegate_test.dart
+  s_e5899ef02be829::t_8602bbcb277141 383-419,771-847,872,885
+pkgs/cupertino_http/tool/ffigen.dart
+  s_e5899ef02be829::t_fb7a33da57aa0d 55-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9aca8a595ea4599c3aeb8574db89db858f917f7c",
+  "prompts": {},
+  "sessions": {
+    "s_e5899ef02be829": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_e5899ef02be829",
+        "model": "unknown"
+      },
+      "human_author": "Brahim Guaali <brahim.guaali@talabat.com>"
+    }
+  }
+}

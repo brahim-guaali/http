@@ -1,0 +1,83 @@
+.github/workflows/okhttp.yaml
+  s_942bd0cb6f24aa::t_d711ec37fea424 14,20
+pkgs/cronet_http/CHANGELOG.md
+  s_942bd0cb6f24aa::t_1298fd79ce172b 5-8
+pkgs/cronet_http/analysis_options.yaml
+  s_942bd0cb6f24aa::t_feba014df5fea0 7
+pkgs/cronet_http/example/lib/main.dart
+  s_942bd0cb6f24aa::t_9e1eb447cbacce 11
+pkgs/cronet_http/example/pubspec.yaml
+  s_942bd0cb6f24aa::t_bfaedf7af4eda6 16
+pkgs/cronet_http/lib/src/cronet_client.dart
+  s_942bd0cb6f24aa::t_bb501d443152de 115-126,129-139,398-404,534-538,587-602,609,622-624,651,671-673,687,699,717-722,736,746,756,762,859-860,963,966-979,989-994,1006-1007,1009,1016-1020,1030
+pkgs/cronet_http/lib/src/jni/jni_bindings.dart
+  s_942bd0cb6f24aa::t_5970d3154b8635 1,39,44-45,236,281,332,374,415,468,678-682,760,809,854,905,947,987,1038,1056-1060,1205-1208,1353-1356,1524,1556,1587,1618,1649,1680,1711,1745,1775-1778,1809,1843,1878,1910,1923-1926,2289,2321,2352,2386,2417,2448,2479,2510,2536,2565,2596,2627,2658,2687-2690,2719,2753,2785,2818,2850,2881,2911,2922-2925,3725-3728,3771,3787-3791,3909,3943,3979,4016,4050,4084,4119,4153,4192,4236,4290,4330,4366,4401,4436,4474,4509,4544,4583,4622,4657,4689,4703-4706,4771,4800,4832,4863,4891,4925,4958,5006,5058,5089,5123,5158,5189,5219,5247,5288,5323,5352,5392,5428,5462,5496,5531,5545-5548,5593,5627,5665,5704,5742,5777,5814,5849,5880-5883,5894-5897,5993-5996,6044,6083,6121,6160,6198,6235,6268,6283-6287,6358,6387,6417,6450,6464-6467,6533,6564,6595,6627,6660,6691,6704-6707,6728-6731,6751-6754,6827,6855,6883,6896-6899,6935,6963,6976-6979,7025,7064,7101,7140,7178,7217,7254,7289,7327,7364,7401,7439,7477,7514,7551,7589,7626,7664,7701,7732-7735,7747-7750,7846-7849,7951-7955,8023,8052,8083,8112,8144,8175,8207,8238,8270,8302,8334,8366,8398,8430,8462,8495,8527,8558,8571-8574,8781-8784,8844,8883,8916,8949,8993,9027,9062,9096,9131,9166,9204,9255,9288-9291,9302-9305,9363,9404,9453,9493,9542,9582,9598-9601,9697-9700,9769-9772,9814,9826-9829,9862,9889-9892,9922-9926,9953,9980-9983,10014,10028-10031,10071,10100,10114-10117,10158,10189,10219,10250,10279,10310,10339,10366,10397,10425,10438-10441,10461-10464,10483-10486,10505-10508,10527-10530,10550-10553,10572-10575,10594-10597,10616-10619,10641-10644,10663-10666,10685-10688,10707-10710,10730-10733,10755-10758,10777-10780,10800-10803,10825-10828,10847-10850,10872-10875,10897-10900,10922-10925,10947-10950,10973-10976,10995-10998,11020-11023,11042-11045,11067-11070,11093-11097,11116-11119,11138-11141,11160-11163,11184-11187,11206-11209,11231-11234,11253-11256
+pkgs/cronet_http/pubspec.yaml
+  s_942bd0cb6f24aa::t_09399b9a706118 16-17,21
+pkgs/http/CHANGELOG.md
+  s_942bd0cb6f24aa::t_7b1d7ba2946f39 3-6
+pkgs/http/lib/retry.dart
+  s_942bd0cb6f24aa::t_4f827fe22dac55 33-37,62-85,101,108,118-123,129,137,146,152,197-201
+pkgs/http/test/http_retry_test.dart
+  s_942bd0cb6f24aa::t_3deb9a6801640d 364-464
+pkgs/http2/CHANGELOG.md
+  s_942bd0cb6f24aa::t_2e070abfccc408 22-31
+pkgs/http2/lib/src/flowcontrol/connection_queues.dart
+  s_942bd0cb6f24aa::t_af96327eee4371 336,347-353,355-360,362-363,370-372,441,470
+pkgs/http2/lib/src/flowcontrol/queue_messages.dart
+  s_942bd0cb6f24aa::t_04e5c1b5f68f48 33-46
+pkgs/http2/lib/src/flowcontrol/stream_queues.dart
+  s_942bd0cb6f24aa::t_9d45b4b426b37c 117,326-328
+pkgs/http2/lib/src/flowcontrol/window_handler.dart
+  s_942bd0cb6f24aa::t_1842f2c23afd86 172-174
+pkgs/http2/lib/src/frames/frame_reader.dart
+  s_942bd0cb6f24aa::t_85a4bcd28e5cd3 209-212
+pkgs/http2/lib/src/frames/frame_types.dart
+  s_942bd0cb6f24aa::t_23883b2bcada43 79-86
+pkgs/http2/lib/src/streams/stream_handler.dart
+  s_942bd0cb6f24aa::t_f1a7f608f408e3 939-941,1174-1176,1191,1203
+pkgs/http2/test/server_test.dart
+  s_942bd0cb6f24aa::t_da4baf487c9b25 757-1037
+pkgs/http2/test/src/flowcontrol/connection_queues_test.dart
+  s_942bd0cb6f24aa::t_7eb737db5297c5 119-120,122,128-134,140,142-143,173,180-183
+pkgs/http2/test/src/flowcontrol/stream_queues_test.dart
+  s_942bd0cb6f24aa::t_afd7c6572b4ee7 130,152
+pkgs/ok_http/CHANGELOG.md
+  s_942bd0cb6f24aa::t_4dc3546e14ceb5 17-18
+pkgs/ok_http/example/lib/main.dart
+  s_942bd0cb6f24aa::t_5c437af2bd3b98 10
+pkgs/ok_http/example/pubspec.yaml
+  s_942bd0cb6f24aa::t_4db2162ba064e7 14
+pkgs/ok_http/lib/src/ok_http_web_socket.dart
+  s_942bd0cb6f24aa::t_fee2348ebfcc38 187-188,190
+pkgs/web_socket/CHANGELOG.md
+  s_942bd0cb6f24aa::t_ca17df909cdcd3 3-4
+pkgs/web_socket/lib/src/web_socket.dart
+  s_942bd0cb6f24aa::t_3b23f5957733d7 168-171
+pkgs/web_socket_conformance_tests/lib/src/close_local_tests.dart
+  s_942bd0cb6f24aa::t_760157a988f7fc 96-100
+pkgs/web_socket_conformance_tests/lib/src/close_remote_server.dart
+  s_942bd0cb6f24aa::t_f0532d542f9af7 23-25
+pkgs/web_socket_conformance_tests/lib/src/disconnect_after_upgrade_server.dart
+  s_942bd0cb6f24aa::t_c2a0a44a000727 26-28
+pkgs/web_socket_conformance_tests/lib/src/peer_protocol_errors_server.dart
+  s_942bd0cb6f24aa::t_998b7e8d0b5098 28-30
+pkgs/web_socket_conformance_tests/lib/src/protocol_server.dart
+  s_942bd0cb6f24aa::t_cc71b914f7c69d 32-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "abe378944b5a55f4b93d8c63936eaa6350310d23",
+  "prompts": {},
+  "sessions": {
+    "s_942bd0cb6f24aa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_942bd0cb6f24aa",
+        "model": "unknown"
+      },
+      "human_author": "Brahim Guaali <guaalibrahim@gmail.com>"
+    }
+  }
+}
